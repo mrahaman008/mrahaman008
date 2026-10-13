@@ -1,29 +1,30 @@
 # 👋 Hello, I'm Rahaman
 
-### Network Engineering • Software Engineering • Web Application Development
+### Network Engineer | Software Engineer | Web Application Developer
 
 <p align="left">
   <a href="https://github.com/mrahaman008">
     <img src="https://img.shields.io/badge/GitHub-mrahaman008-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
   </a>
   <img src="https://img.shields.io/badge/Focus-Networking%20%26%20Software-0A66C2?style=for-the-badge" alt="Professional Focus" />
-  <img src="https://img.shields.io/badge/Approach-Secure%20%7C%20Scalable%20%7C%20Reliable-16875D?style=for-the-badge" alt="Engineering Approach" />
+  <img src="https://img.shields.io/badge/Engineering-Secure%20%7C%20Scalable%20%7C%20Reliable-16875D?style=for-the-badge" alt="Engineering Approach" />
 </p>
 
-I am passionate about engineering reliable network infrastructures, developing maintainable software systems, and building modern web applications. My interests span network architecture, systems administration, application development, API integration, and infrastructure security.
+I am passionate about engineering reliable network infrastructures, developing maintainable software systems, and building modern web applications. My professional interests span network architecture, ISP infrastructure, systems administration, application development, API integration, and infrastructure security.
 
-I believe in combining **strong engineering fundamentals, practical problem-solving, security-conscious design, and continuous learning** to create technology solutions that are efficient, dependable, and scalable.
+I believe in combining **strong engineering fundamentals, practical problem-solving, security-conscious design, and continuous learning** to develop technology solutions that are efficient, dependable, and scalable.
 
 ---
 
 ## 🧭 Professional Overview
 
-- 🌐 **Network Engineering:** Network architecture, routing and switching, infrastructure management, connectivity, and troubleshooting.
+- 🌐 **Network Engineering:** Network infrastructure, routing and switching, connectivity, network monitoring, and troubleshooting.
 - 💻 **Software Engineering:** Application architecture, programming, software design, automation, and maintainable code.
 - 🌍 **Web Application Development:** Modern web interfaces, backend services, REST APIs, database integration, and application security.
+- 📡 **ISP Systems & Solutions:** Billing workflows, subscriber management concepts, network log management, and operational visibility.
 - 🔐 **Infrastructure & Security:** Linux environments, access control, secure configurations, system reliability, and network protection.
-- ⚙️ **Systems & Automation:** Streamlining repetitive tasks, improving operational efficiency, and connecting software with infrastructure.
-- 🤝 **Collaboration:** Interested in knowledge sharing, open-source development, and technically challenging projects.
+- ⚙️ **Systems & Automation:** Streamlining repetitive tasks, improving operational efficiency, and integrating software with infrastructure.
+- 🤝 **Collaboration:** Knowledge sharing, collaborative development, and technically challenging projects.
 
 ---
 
@@ -32,11 +33,12 @@ I believe in combining **strong engineering fundamentals, practical problem-solv
 ### 🌐 Network Engineering & Infrastructure
 
 - TCP/IP Networking and Subnetting
-- Routing and Switching Fundamentals
+- Routing and Switching
 - VLANs, Trunking, and Inter-VLAN Routing
 - DNS, DHCP, NAT, and Network Services
 - Network Monitoring and Troubleshooting
 - Network Security and Access Control
+- ISP Infrastructure and Network Operations
 - Infrastructure Documentation and Administration
 
 ### 💻 Software Engineering & Development
@@ -45,9 +47,10 @@ I believe in combining **strong engineering fundamentals, practical problem-solv
 - Object-Oriented Programming
 - Data Structures and Algorithms
 - RESTful API Design and Integration
-- Database Modeling and Optimization
+- Database Modeling and Management
 - Git-Based Version Control
 - Debugging, Testing, and Code Maintenance
+- Automation and Application Development
 
 ### 🌍 Web Application Engineering
 
@@ -68,6 +71,7 @@ I believe in combining **strong engineering fundamentals, practical problem-solv
 - Infrastructure Troubleshooting
 - Automation and Deployment Workflows
 - Application and Network Reliability
+- System Monitoring and Log Analysis
 
 ---
 
@@ -77,16 +81,69 @@ I believe in combining **strong engineering fundamentals, practical problem-solv
   <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,bash,python,js,html,css,react,nodejs,php,mysql,docker&perline=7" alt="Development technologies and tools" />
 </p>
 
-*Technology icons represent areas you may want to showcase. Keep only the languages, platforms, and tools you actually use or are actively learning.*
-
 ### Networking & Infrastructure
 
 <p align="left">
   <img src="https://img.shields.io/badge/Networking-TCP%2FIP-1679A7?style=flat-square" alt="TCP/IP Networking" />
-  <img src="https://img.shields.io/badge/Routing%20%26%20Switching-Infrastructure-0A66C2?style=flat-square" alt="Routing and Switching" />
+  <img src="https://img.shields.io/badge/Routing%20%26%20Switching-Network%20Infrastructure-0A66C2?style=flat-square" alt="Routing and Switching" />
   <img src="https://img.shields.io/badge/Linux-System%20Administration-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
+
+*Customize the technology icons to reflect the programming languages, frameworks, networking platforms, and tools you actually use.*
+
+---
+
+## 🚀 Current Projects & Engineering Work
+
+I am currently working on **ISPGenius**, a project ecosystem focused on ISP operational workflows, billing management, and network log management. These projects reflect my interest in connecting software engineering with practical networking and infrastructure requirements.
+
+### 💳 ISPGenius Billing System
+
+**ISP Billing & Subscriber Management**
+
+A billing-focused application project designed around ISP operational and subscriber management workflows.
+
+- 💰 Billing and payment management workflows
+- 👥 Subscriber and customer account management
+- 📊 Billing records and operational reporting
+- ⚙️ Administrative workflows and operational efficiency
+- 🔐 Security-conscious handling of customer and billing information
+
+**Engineering focus:** ISP billing operations, subscriber management, business workflows, and software application development.
+
+**Status:** 🚧 Ongoing development
+
+### 📡 ISPGenius Smart Log System
+
+**Network Log Management & Operational Visibility**
+
+A network and system log management project focused on organizing operational information and supporting infrastructure troubleshooting.
+
+- 📋 Network and system log management
+- 🔍 Log searching, filtering, and investigation workflows
+- 📊 Operational visibility and log analysis
+- 🚨 Support for identifying and investigating unusual events
+- 🛠️ Network diagnostics and infrastructure troubleshooting
+
+**Engineering focus:** Network operations, log management, system visibility, and infrastructure monitoring.
+
+**Status:** 🚧 Ongoing development
+
+### 🧩 Shared Engineering Objectives
+
+Across both projects, my engineering interests include:
+
+- 🌐 Supporting practical ISP operational requirements
+- 💻 Developing maintainable and efficient software applications
+- 🔗 Integrating software systems with network operations
+- 🔐 Improving security, access control, and data integrity
+- ⚙️ Enhancing operational efficiency through automation
+- 📈 Building reliable solutions that can evolve with changing requirements
+
+*Both projects are under development. Features and implementation details will evolve as the projects progress.*
+
+🔗 **Explore my GitHub repositories:** [github.com/mrahaman008](https://github.com/mrahaman008)
 
 ---
 
@@ -94,27 +151,13 @@ I believe in combining **strong engineering fundamentals, practical problem-solv
 
 | Domain | Areas of Interest |
 |---|---|
-| Network Infrastructure | Architecture, connectivity, routing, switching, and monitoring |
+| Network Infrastructure | Architecture, routing, switching, connectivity, and monitoring |
+| ISP Solutions | Billing workflows, subscriber management, and network operations |
 | Software Systems | Application design, automation, maintainability, and performance |
 | Web Applications | Frontend interfaces, backend services, APIs, and databases |
-| Security | Network defense, secure coding, access control, and hardening |
+| Security | Network protection, secure coding, access control, and hardening |
 | Systems Engineering | Linux, server management, deployment, and reliability |
-
----
-
-## 🚀 Projects & Technical Exploration
-
-I use hands-on projects to explore engineering concepts, strengthen practical skills, and develop solutions to real-world technical challenges.
-
-Areas I am interested in developing and documenting include:
-
-- **Network Engineering Labs** — network topologies, subnetting exercises, routing, switching, and troubleshooting documentation.
-- **Software Applications** — practical utilities, automation scripts, and maintainable application architectures.
-- **Web Applications** — responsive interfaces, backend services, database-driven systems, and API integrations.
-- **Infrastructure Tools** — system administration utilities, monitoring concepts, and operational automation.
-- **Security-Focused Projects** — secure configurations, access management, and application security practices.
-
-🔗 **Explore my repositories:** [github.com/mrahaman008](https://github.com/mrahaman008)
+| Log Management | System logs, troubleshooting, operational visibility, and analysis |
 
 ---
 
@@ -137,21 +180,24 @@ Areas I am interested in developing and documenting include:
   <img src="https://raw.githubusercontent.com/mrahaman008/mrahaman008/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution activity animation" />
 </p>
 
-*To display this animation, configure a GitHub Actions workflow to generate and publish the contribution SVG to the `output` branch.*
+*To enable the contribution animation, configure a GitHub Actions workflow to generate the SVG and publish it to the `output` branch. The image will not appear until the workflow has generated the file.*
 
 ---
 
 ## 🎯 Professional Mission
 
-My goal is to develop expertise across networking, software systems, and web technologies while building solutions that prioritize:
+My goal is to develop and deliver dependable technology solutions across networking, software engineering, and web application development.
 
-- **Reliability** — dependable systems and stable infrastructure.
+I prioritize:
+
+- **Reliability** — dependable systems and stable network infrastructure.
 - **Security** — responsible engineering and protection of digital assets.
 - **Scalability** — solutions designed to evolve with changing requirements.
-- **Efficiency** — optimized workflows and effective problem-solving.
-- **Maintainability** — clear documentation, structured code, and sustainable design.
+- **Efficiency** — optimized workflows and practical problem-solving.
+- **Maintainability** — structured code, clear documentation, and sustainable design.
+- **Continuous Improvement** — learning new technologies and applying engineering best practices.
 
-I value continuous improvement, practical experimentation, and collaboration with people who are passionate about technology.
+I value practical experimentation, technical collaboration, and building solutions that address real-world challenges.
 
 ---
 
@@ -163,12 +209,12 @@ I value continuous improvement, practical experimentation, and collaboration wit
   </a>
 </p>
 
-I'm open to meaningful technical discussions, collaborative development, and opportunities to learn from the engineering community.
+I'm interested in meaningful technical discussions, collaborative development, networking and software projects, and opportunities to exchange knowledge with the engineering community.
 
 ---
 
 <p align="center">
-  <b>Engineering Networks. Developing Software. Building the Web.</b>
+  <b>Engineering Networks. Developing Software. Building Intelligent Web Applications.</b>
   <br />
-  <sub>Continuous learning • Thoughtful engineering • Practical innovation</sub>
+  <sub>Reliable Infrastructure • Secure Software • Continuous Innovation</sub>
 </p>
